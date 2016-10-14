@@ -1,7 +1,6 @@
-@import <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
-    
-    
-@import <link href="https://fonts.googleapis.com/css?family=Bubblegum+Sans" rel="stylesheet">
+@import 'https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet';
+     
+@import 'https://fonts.googleapis.com/css?family=Bubblegum+Sans" rel="stylesheet';
 
 *{
     padding: 0;
